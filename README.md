@@ -17,4 +17,4 @@ I also tried to add logout functionality so that every time one opens it do not 
 I was not able to apply localizations as building the app and releasing it took my whole day today.
 Also i used local stateful widgets to maintain state and also used provides for app-wide states.I could have used consumers though but it was not required.
 Thank you.Felt great after making this short little app named "UserDetails".
-NOTE:I really dont know how long that ngrok will run my public url.
+NOTE:I really dont know how long that ngrok will run my public url.I did not upload node_modules folder in api.
