@@ -13,7 +13,7 @@ Clutchgawd/12345
 Flyinghawk/1234
 I created the rest api using express and my data came from a users.json file which i hardcoded for 2 users.
 I have uploaded the api code too.
-I also tried to add logout functionality so that every time one opens it do not have to delete its app data and login again.But i was not able to implement that ,given more time i could have done that.I have commented some tries codes though.
+I also tried to add logout functionality(it wasn't asked though) so that every time one opens it do not have to delete its app data and login again.But i was not able to implement that ,given more time i could have done that.I have commented some tries codes though.
 I was not able to apply localizations as building the app and releasing it took my whole day today.
 Also i used local stateful widgets to maintain state and also used provides for app-wide states.I could have used consumers though but it was not required.
 Thank you.Felt great after making this short little app named "UserDetails".
