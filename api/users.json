@@ -1,0 +1,23 @@
+{
+    "user1": {
+      "id":1,
+      "name":"Simon Baker",
+      "imageurl":"https://i.pinimg.com/originals/52/af/e4/52afe47277db7cfc79b42ca2beaa807b.jpg",
+      "userId":"Flyingwolf",
+      "tournamentsplayed": "34",
+      "rating":"2250",
+      "winningpercentage":"26",
+      "tournamentswon":"9"
+    },
+  
+    "user2":  {
+      "id":2,
+      "name":"Michael Schofield",
+      "imageurl":"https://static.wikia.nocookie.net/prisonbreak/images/6/66/Scofield.png/revision/latest/scale-to-width-down/200?cb=20061129185321",
+      "userId":"Clutchgawd",
+      "tournamentsplayed": "50",
+      "rating":"1870",
+      "winningpercentage":"20",
+      "tournamentswon":"10"
+    }
+}  
