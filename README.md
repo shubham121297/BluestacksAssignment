@@ -1,5 +1,4 @@
-# project_blue
-**Older url is dead .I have updated the apk of the app just now at 9:50 IST.
+## Older url is dead .I have updated the apk of the app just now at 9:50 IST.
 
 Did not upload some of the build files.
 
