@@ -31,7 +31,7 @@ class _UserDetailsSectionState extends State<UserDetailsSection> {
      x=MediaQuery.of(context).size.width;
     // TODO: implement didChangeDependencies
     if(_isInIt){
-            Provider.of<UserDetailsData>(context).fetchUser(widget.user.toString())
+            Provider.of<UserDetailsData>(context,listen:false).fetchUser(widget.user.toString())
            .catchError((err){
              showDialog(context: context,
              builder: (ctx)=>AlertDialog(
@@ -93,7 +93,7 @@ class _UserDetailsSectionState extends State<UserDetailsSection> {
   
   @override
   Widget build(BuildContext context) {
-    Provider.of<UserDetailsData>(context).users;
+    //Provider.of<UserDetailsData>(context).users;
     var recData=Provider.of<Recommended>(context).items;
     return _isLoading?Scaffold(body: Center(child:CircularProgressIndicator()),):Scaffold(
       appBar: AppBar(
